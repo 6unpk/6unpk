@@ -4,8 +4,6 @@ Generalitst wannabe
 
 Work for @AlmSmartDoc
 
-[CAU](https://www.cau.ac.kr/index.do) Undergraduate
-
 # Skill Set
 
 [![forthebadge](https://s3.ap-northeast-2.amazonaws.com/6unu.net/python.svg)](https://forthebadge.com) ★★★★
