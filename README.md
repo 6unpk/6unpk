@@ -2,8 +2,6 @@
 
 Generalitst wannabe
 
-Work for @AlmSmartDoc
-
 # Skill Set
 
 [![forthebadge](https://s3.ap-northeast-2.amazonaws.com/6unu.net/python.svg)](https://forthebadge.com) ★★★★
