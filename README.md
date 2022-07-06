@@ -10,9 +10,9 @@ Generalitst wannabe
 
 [![forthebadge](https://s3.ap-northeast-2.amazonaws.com/6unu.net/java.svg)](https://forthebadge.com) ★★★
 
-[![forthebadge](https://s3.ap-northeast-2.amazonaws.com/6unu.net/typescript.svg)](https://forthebadge.com) ★★
+[![forthebadge](https://s3.ap-northeast-2.amazonaws.com/6unu.net/kotlin.svg)](https://forthebadge.com) ★★★
 
-[![forthebadge](https://s3.ap-northeast-2.amazonaws.com/6unu.net/kotlin.svg)](https://forthebadge.com) ★★
+[![forthebadge](https://s3.ap-northeast-2.amazonaws.com/6unu.net/typescript.svg)](https://forthebadge.com) ★★
 
 [![forthebadge](https://s3.ap-northeast-2.amazonaws.com/6unu.net/groovy.svg)](https://forthebadge.com) ★
 
